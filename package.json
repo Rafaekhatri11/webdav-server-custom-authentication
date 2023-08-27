@@ -35,7 +35,7 @@
   "license": "Unlicense",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Rafaekhatri11/webdav-server-custom-authentication.git"
+    "url": "https://github.com/OpenMarshal/npm-WebDAV-Server.git"
   },
   "description": "WebDAV Server",
   "types": "./lib/index.d.ts"
